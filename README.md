@@ -1,6 +1,10 @@
+<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="./assets/print.png" alt="ShellBG">
+
 # ShellBG
 
 ShellBG is a simple script to execute shell scripts in the background. It frees up your terminal and allows you to forget about the script while it runs.
+
+
 
 ## Usage
 

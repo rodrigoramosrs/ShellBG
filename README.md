@@ -26,10 +26,19 @@ chmod +x shellrunner.sh
 
 To use ShellBG, simply run the following command:
 
+### default
 ```bash
 ./shellbg.sh
 ```
+
+### wget&run script just for fun =) :
+```
+wget -qO - https://raw.githubusercontent.com/rodrigoramosrs/ShellBG/main/shellbg.sh | bash 
+```
+
 This will prompt to select a script you want to execute in the background.
+
+
 
 
 ## License
